@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PAM</string>
+    <string name="notify">NOTIFY</string>
+    <string name="search">search</string>
+    <string name="type_here">type here</string>
+    <string name="todo">TODO</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="lab1">lab1</string>
+    <string name="notify2">notify2</string>
+</resources>
